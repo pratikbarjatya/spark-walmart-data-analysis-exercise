@@ -26,9 +26,6 @@ To execute my projects you will need a system that satisfies below dependencies.
 ### Spark Cluster Overview
 ![Alt](https://spark.apache.org/docs/latest/img/cluster-overview.png)
 
-### Spark Architechture
-![Alt](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAb5AAAAJDUwZGZmZWEwLWNhZGEtNDc4NC1hOTkyLTVjMTNiYmUzNjVmNw.png)
-
 ## References
 - [Apache Spark](https://spark.apache.org/)
 - [Media Licdn](https://media.licdn.com/)
